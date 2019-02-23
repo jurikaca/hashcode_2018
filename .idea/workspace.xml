@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="958661a3-0ef2-4d96-9792-c6ea0a001940" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.8628068">
+      <split-first>
+        <splitter split-orientation="horizontal" split-proportion="0.2759124">
+          <split-first>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/index.php">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="305">
+                      <caret line="301" column="34" lean-forward="false" selection-start-line="301" selection-start-column="34" selection-end-line="301" selection-end-column="34" />
+                      <folding>
+                        <element signature="e#7#136#0#PHP" expanded="false" />
+                        <element signature="n#FileReader#0;n#!!top" expanded="false" />
+                        <element signature="e#652#741#0#PHP" expanded="false" />
+                        <element signature="n#readFirstLine#0;n#FileReader#0;n#!!top" expanded="false" />
+                        <element signature="e#1124#1250#0#PHP" expanded="false" />
+                        <element signature="n#readOtherLines#0;n#FileReader#0;n#!!top" expanded="false" />
+                        <element signature="e#1326#1904#0#PHP" expanded="false" />
+                        <element signature="n#__construct#0;n#Ride#0;n#!!top" expanded="false" />
+                        <element signature="n#__construct#0;n#Location#0;n#!!top" expanded="false" />
+                        <element signature="n#getDistanceFromOrigin#0;n#Location#0;n#!!top" expanded="false" />
+                        <element signature="n#findDistanceOfGivenLocation#0;n#Location#0;n#!!top" expanded="false" />
+                        <element signature="n#__construct#0;n#Vehicle#0;n#!!top" expanded="false" />
+                        <element signature="n#assignRide#0;n#Vehicle#0;n#!!top" expanded="false" />
+                        <element signature="n#getNumRidesAssigned#0;n#Vehicle#0;n#!!top" expanded="false" />
+                        <element signature="n#setCurrentLocation#0;n#Vehicle#0;n#!!top" expanded="false" />
+                        <element signature="n#findDistanceToRideStart#0;n#Vehicle#0;n#!!top" expanded="false" />
+                        <element signature="n#Fleet#0;n#!!top" expanded="false" />
+                        <element signature="n#__construct#0;n#Fleet#0;n#!!top" expanded="false" />
+                        <element signature="n#addVehicle#0;n#Fleet#0;n#!!top" expanded="false" />
+                        <element signature="n#getNumberOfVehicles#0;n#Fleet#0;n#!!top" expanded="false" />
+                        <element signature="n#getVehicles#0;n#Fleet#0;n#!!top" expanded="false" />
+                        <element signature="n#rideCanBeTakenByVehicle#0;n#HashCode#0;n#!!top" expanded="false" />
+                        <element signature="n#showFirstLineParams#0;n#HashCode#0;n#!!top" expanded="false" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/index.php">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="254">
+                      <caret line="142" column="64" lean-forward="false" selection-start-line="142" selection-start-column="64" selection-end-line="142" selection-end-column="64" />
+                      <folding>
+                        <element signature="e#7#136#0#PHP" expanded="false" />
+                        <element signature="n#FileReader#0;n#!!top" expanded="false" />
+                        <element signature="e#652#741#0#PHP" expanded="false" />
+                        <element signature="n#readFirstLine#0;n#FileReader#0;n#!!top" expanded="false" />
+                        <element signature="e#1124#1250#0#PHP" expanded="false" />
+                        <element signature="n#readOtherLines#0;n#FileReader#0;n#!!top" expanded="false" />
+                        <element signature="e#1326#1904#0#PHP" expanded="false" />
+                        <element signature="n#__construct#0;n#Ride#0;n#!!top" expanded="false" />
+                        <element signature="n#__construct#0;n#Location#0;n#!!top" expanded="false" />
+                        <element signature="n#getDistanceFromOrigin#0;n#Location#0;n#!!top" expanded="false" />
+                        <element signature="n#findDistanceOfGivenLocation#0;n#Location#0;n#!!top" expanded="false" />
+                        <element signature="n#__construct#0;n#Vehicle#0;n#!!top" expanded="false" />
+                        <element signature="n#assignRide#0;n#Vehicle#0;n#!!top" expanded="false" />
+                        <element signature="n#getNumRidesAssigned#0;n#Vehicle#0;n#!!top" expanded="false" />
+                        <element signature="n#setCurrentLocation#0;n#Vehicle#0;n#!!top" expanded="false" />
+                        <element signature="n#findDistanceToRideStart#0;n#Vehicle#0;n#!!top" expanded="false" />
+                        <element signature="n#Fleet#0;n#!!top" expanded="false" />
+                        <element signature="n#__construct#0;n#Fleet#0;n#!!top" expanded="false" />
+                        <element signature="n#addVehicle#0;n#Fleet#0;n#!!top" expanded="false" />
+                        <element signature="n#getNumberOfVehicles#0;n#Fleet#0;n#!!top" expanded="false" />
+                        <element signature="n#getVehicles#0;n#Fleet#0;n#!!top" expanded="false" />
+                        <element signature="n#rideCanBeTakenByVehicle#0;n#HashCode#0;n#!!top" expanded="false" />
+                        <element signature="n#showFirstLineParams#0;n#HashCode#0;n#!!top" expanded="false" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="level_1.in" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/task_files/level_1.in">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>max_cells_per_slice</find>
+      <find>addRide</find>
+      <find>getDistance</find>
+      <find>-&gt;currentLocation</find>
+      <find>calculateNextMove</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="806" />
+    <option name="height" value="1017" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hashcode_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hashcode_2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="hashcode_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hashcode_2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="task_files" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hashcode_2018\task_files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hashcode_2018" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="958661a3-0ef2-4d96-9792-c6ea0a001940" name="Default" comment="" />
+      <created>1548166933554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548166933554</updated>
+      <workItem from="1548166936116" duration="11563000" />
+      <workItem from="1548318802164" duration="222000" />
+      <workItem from="1548414685750" duration="4363000" />
+      <workItem from="1548664108859" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16746000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="806" height="1017" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.029490616" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="275" column="33" lean-forward="false" selection-start-line="275" selection-start-column="33" selection-end-line="275" selection-end-column="33" />
+          <folding>
+            <element signature="e#7#136#0#PHP" expanded="false" />
+            <element signature="n#FileReader#0;n#!!top" expanded="false" />
+            <element signature="e#652#741#0#PHP" expanded="false" />
+            <element signature="n#readFirstLine#0;n#FileReader#0;n#!!top" expanded="false" />
+            <element signature="e#1124#1250#0#PHP" expanded="false" />
+            <element signature="n#readOtherLines#0;n#FileReader#0;n#!!top" expanded="false" />
+            <element signature="e#1326#1904#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#Ride#0;n#!!top" expanded="false" />
+            <element signature="n#__construct#0;n#Location#0;n#!!top" expanded="false" />
+            <element signature="n#getDistanceFromOrigin#0;n#Location#0;n#!!top" expanded="false" />
+            <element signature="n#findDistanceOfGivenLocation#0;n#Location#0;n#!!top" expanded="false" />
+            <element signature="n#__construct#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#assignRide#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#getNumRidesAssigned#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#setCurrentLocation#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#findDistanceToRideStart#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#__construct#0;n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#addVehicle#0;n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#getNumberOfVehicles#0;n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#getVehicles#0;n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#rideCanBeTakenByVehicle#0;n#HashCode#0;n#!!top" expanded="false" />
+            <element signature="n#showFirstLineParams#0;n#HashCode#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_files/level_1.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#136#0#PHP" expanded="false" />
+            <element signature="n#FileReader#0;n#!!top" expanded="false" />
+            <element signature="e#652#741#0#PHP" expanded="false" />
+            <element signature="n#readFirstLine#0;n#FileReader#0;n#!!top" expanded="false" />
+            <element signature="e#1124#1250#0#PHP" expanded="false" />
+            <element signature="n#readOtherLines#0;n#FileReader#0;n#!!top" expanded="false" />
+            <element signature="e#1326#1904#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#Ride#0;n#!!top" expanded="false" />
+            <element signature="n#__construct#0;n#Location#0;n#!!top" expanded="false" />
+            <element signature="n#getDistanceFromOrigin#0;n#Location#0;n#!!top" expanded="false" />
+            <element signature="n#findDistanceOfGivenLocation#0;n#Location#0;n#!!top" expanded="false" />
+            <element signature="n#__construct#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#assignRide#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#getNumRidesAssigned#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#setCurrentLocation#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#findDistanceToRideStart#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#__construct#0;n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#addVehicle#0;n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#getNumberOfVehicles#0;n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#getVehicles#0;n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#rideCanBeTakenByVehicle#0;n#HashCode#0;n#!!top" expanded="false" />
+            <element signature="n#showFirstLineParams#0;n#HashCode#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_files/level_3.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_files/level_4.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_files/level_5.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium.in" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="555" column="6" lean-forward="false" selection-start-line="555" selection-start-column="6" selection-end-line="555" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_files/level_2.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.in" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="301" column="34" lean-forward="false" selection-start-line="301" selection-start-column="34" selection-end-line="301" selection-end-column="34" />
+          <folding>
+            <element signature="e#7#136#0#PHP" expanded="false" />
+            <element signature="n#FileReader#0;n#!!top" expanded="false" />
+            <element signature="e#652#741#0#PHP" expanded="false" />
+            <element signature="n#readFirstLine#0;n#FileReader#0;n#!!top" expanded="false" />
+            <element signature="e#1124#1250#0#PHP" expanded="false" />
+            <element signature="n#readOtherLines#0;n#FileReader#0;n#!!top" expanded="false" />
+            <element signature="e#1326#1904#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#Ride#0;n#!!top" expanded="false" />
+            <element signature="n#__construct#0;n#Location#0;n#!!top" expanded="false" />
+            <element signature="n#getDistanceFromOrigin#0;n#Location#0;n#!!top" expanded="false" />
+            <element signature="n#findDistanceOfGivenLocation#0;n#Location#0;n#!!top" expanded="false" />
+            <element signature="n#__construct#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#assignRide#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#getNumRidesAssigned#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#setCurrentLocation#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#findDistanceToRideStart#0;n#Vehicle#0;n#!!top" expanded="false" />
+            <element signature="n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#__construct#0;n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#addVehicle#0;n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#getNumberOfVehicles#0;n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#getVehicles#0;n#Fleet#0;n#!!top" expanded="false" />
+            <element signature="n#rideCanBeTakenByVehicle#0;n#HashCode#0;n#!!top" expanded="false" />
+            <element signature="n#showFirstLineParams#0;n#HashCode#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_files/level_1.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
